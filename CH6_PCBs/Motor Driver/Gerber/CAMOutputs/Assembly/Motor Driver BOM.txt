@@ -1,0 +1,10 @@
+Partlist exported from C:/Users/Pc/OneDrive - NA/Desktop/Desktop All FIles/Eagle Files/driver with TB6621FNG/Motor Driver.sch at 4/17/2020 10:00 PM
+
+Qty Value       Device      Package  Parts            Description                     Found
+2   0.1uF       CAP0402-CAP 0402-CAP C1, C2           Capacitor                       SparkFun-Capacitors -> Caps 
+1   10uf , 20V  CAP_POL3528 EIA3528  C3               Capacitor Polarized             SparkFun-Capacitors -> 10UF-POLAR
+4   1k          R-US_R0603  R0603    R8, R9, R10, R11 RESISTOR, American symbol       resistor -> R-US_
+2   609-1317-ND PINHD-1X2   1X02     JP1, JP2         PIN HEADER                      pinhead -> PINHD-1X2
+2   BC846       BC846       SOT23    T1, T2           NPN TRANSISTOR                  transistor -> BC846
+1   TB6612FNG   TB6612FNG   SSOP24   U1               Toshiba 1A motor driver         SparkFun-IC-Special-Function -> TB6612FNG
+1   WM4205-ND   PINHD-1X7   1X07     JP3              PIN HEADER                      pinhead -> PINHD-1X7

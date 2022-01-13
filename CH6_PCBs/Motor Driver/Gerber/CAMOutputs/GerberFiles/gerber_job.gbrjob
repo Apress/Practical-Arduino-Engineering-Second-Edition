@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-04-12T00:17:52Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Motor Driver"
+        },
+        "Owner": "harold timmis <htimmis2005@my.fit.edu>",
+        "Size": {
+            "X": 25.4,
+            "Y": 25.4
+        }
+    }
+}

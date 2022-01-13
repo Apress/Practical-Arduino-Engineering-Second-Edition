@@ -1,0 +1,7 @@
+Partlist exported from C:/Users/Pc/Desktop/LED Board/LED_Board.sch at 3/28/2020 9:50 PM
+
+Qty Value                           Device                          Package                  Parts Description                                                                                                     PROD_ID    SF_SKU   
+1                                   CONN_025MM                      SCREWTERMINAL-5MM-2      J1    Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections            PRT-08432
+1                                   LED3MM                          LED_3MM                  D1    LED (Generic)                                                                                                   DIO-08794           
+1   330ohm                          R-US_R0805                      R0805                    R1    RESISTOR, American symbol                                                                                                           
+1   MOMENTARY-SWITCH-SPST-SMD-4.5MM MOMENTARY-SWITCH-SPST-SMD-4.5MM TACTILE_SWITCH_SMD_4.5MM S1    Momentary Switch (Pushbutton) - SPST                                                                            SWCH-09213          
